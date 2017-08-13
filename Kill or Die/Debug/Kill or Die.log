@@ -1,0 +1,17 @@
+﻿Build started 2/1/2016 8:57:30 PM.
+     1>Project "D:\AUST\AUST 1.2\Game Project\Kill or Die\Kill or Die\Kill or Die.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Kill or Die.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Kill or Die.vcxproj -> D:\AUST\AUST 1.2\Game Project\Kill or Die\Debug\Kill or Die.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Kill or Die.unsuccessfulbuild".
+         Touching "Debug\Kill or Die.lastbuildstate".
+     1>Done Building Project "D:\AUST\AUST 1.2\Game Project\Kill or Die\Kill or Die\Kill or Die.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
